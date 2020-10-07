@@ -1,0 +1,10 @@
+-- Note lại 1 số kiến thức về [GIT]
+
+1. Setting up a repository 
+2. Saving changes 
+3. Examining a repository 
+4. Undoing changes
+5. Rewriting history 
+6. Syncing
+7. Using branches 
+8. Avanced Tips 
