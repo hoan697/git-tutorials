@@ -1,10 +1,41 @@
 -- Note lại 1 số kiến thức về [GIT]
 
 1. Setting up a repository 
-2. Saving changes 
+    - git init
+    - git clone 
+    - git config 
+    - git alias 
+2. Saving changes   
+    - git add 
+    - git commit 
+    - git stash 
+    - git diff 
+    - .gitignore
 3. Examining a repository 
+    - git status 
+    - git log 
+    - git tag
+    - git blame
 4. Undoing changes
+    - git clean 
+    - git revert 
+    - git reset
+    - git rm 
 5. Rewriting history 
+    - git commit --amend
+    - git rebase 
+    - git reflog 
 6. Syncing
+    - git remote 
+    - git fetch 
+    - git push 
+    - git pull
 7. Using branches 
+    - git branch 
+    - git checkout 
+    - git merge 
+    - merge conflicts 
+    - merge strategies 
 8. Avanced Tips 
+    - git submodule 
+    - git subtree
